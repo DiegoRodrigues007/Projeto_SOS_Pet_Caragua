@@ -3037,6 +3037,22 @@ ul.blog-post-meta li .icon {
 	left: 25px;
 }
 
+/* BORDER BOTTOM DOS TITULOS  */
+.title-hover{
+	display: inline-block;
+  padding-bottom: 10px;
+  margin-top: 60px;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  border-bottom: 2px solid #00E175;
+  
+}
+
+.ponto{
+	color: #00E175;
+}
 .post-modern-caption {
 	padding: 25px;
 	background: #ffffff;

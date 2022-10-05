@@ -1,0 +1,26 @@
+
+@import url(form.css);
+
+
+.bg-contact{
+    background-image: url(../images/dog-contact.jpg);
+    background-size: cover;
+}
+
+
+.container-form-2{
+    background-color: #ffff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+.container-form-2 p {
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.container-form-2 h2{
+    margin-bottom: 40px;
+}
+
